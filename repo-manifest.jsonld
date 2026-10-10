@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-saq/commit/95619b5f748e2a7dba2aa8de7659b99ac361aea3",
       "git:hexsha": "95619b5f748e2a7dba2aa8de7659b99ac361aea3",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T19:55:36.171247+00:00"
     },
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-saq/commit/59bf4f15df3d8c717dc5ba7b931bdb8b92614c32",
